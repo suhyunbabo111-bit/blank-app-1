@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-tavily
+langchain-text-splitters
+tavily-python
+faiss-cpu
+numpy
+pypdf
+streamlit
+pandas
